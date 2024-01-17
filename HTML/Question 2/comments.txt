@@ -1,0 +1,31 @@
+<!--In HTML, comments are used to add explanatory notes or annotations within the code
+     that are not displayed when the webpage is rendered in a browser. The purpose of 
+     comments is to provide information to developers or anyone reading the code without 
+     affecting the appearance or functionality of the webpage. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments in HTML File</title>
+</head>
+<body>
+    <!-- <h1>Working</h1> -->
+    <!-- <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis ipsam assumenda ducimus sapiente? Ullam corrupti obcaecati sint est suscipit, minus adipisci. Consectetur, nam praesentium repellat, velit animi accusantium, voluptas cumque quia cum exercitationem iusto porro. Repudiandae ex omnis laudantium incidunt perspiciatis. Sapiente aperiam, voluptatem quaerat quis doloribus quos nemo nulla beatae itaque ipsum consequuntur iusto ipsam nisi, veritatis, aliquam quidem laudantium porro! Voluptatem blanditiis voluptates quisquam magnam nemo libero, reprehenderit corrupti quam recusandae dolore ullam incidunt eaque animi? Voluptatem illum architecto earum provident. Eligendi, aspernatur? Molestias numquam<br>
+         earum deleniti corrupti debitis quia provident sapiente, doloribus sed, impedit consequatur nisi odit!</p> -->
+
+    <!-- <h2>Hello PW</h2> -->
+
+    <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid fuga dolore laborum<br>
+         nesciunt quae id suscipit earum totam ea quasi vero consectetur laboriosam excepturi,<br>
+          eum repudiandae iusto, eos esse dolorum.
+    </p> -->
+
+    
+</body>
+</html>
+
+<!-- In this example, the text "This is a comment." is an HTML comment, and it won't be visible on the webpage. Similarly, the entire paragraph wrapped in and
+ is commented out, and its contents won't be displayed on the webpage either. Comments are useful for explaining the purpose of certain sections
+ of code or temporarily removing code during development. -->
